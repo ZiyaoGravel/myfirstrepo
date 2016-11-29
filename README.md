@@ -6,6 +6,6 @@
   
   git add --all
   
-  git commit
+  git commit -m "content"
   
   git push
