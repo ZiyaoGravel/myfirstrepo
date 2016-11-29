@@ -1,7 +1,7 @@
 # myfirstrepo
 
-git clone
-git pull
-git add --all
-git commit
-git push
+  git clone
+  git pull
+  git add --all
+  git commit
+  git push
